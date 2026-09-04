@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |

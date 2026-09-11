@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Number Theory
 |  |
@@ -142,9 +145,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

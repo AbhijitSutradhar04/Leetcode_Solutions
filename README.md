@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3516-find-closest-person) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |

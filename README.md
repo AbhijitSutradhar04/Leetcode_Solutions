@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |

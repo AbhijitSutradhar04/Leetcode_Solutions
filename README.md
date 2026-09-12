@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

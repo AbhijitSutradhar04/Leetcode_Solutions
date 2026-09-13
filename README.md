@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |

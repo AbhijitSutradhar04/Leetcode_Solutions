@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [3612-process-string-with-special-operations-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |

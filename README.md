@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |

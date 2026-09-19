@@ -313,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

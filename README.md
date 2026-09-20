@@ -235,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

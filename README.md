@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |

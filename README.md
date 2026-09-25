@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |

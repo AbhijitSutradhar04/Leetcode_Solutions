@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

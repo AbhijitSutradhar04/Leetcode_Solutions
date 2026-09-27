@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum

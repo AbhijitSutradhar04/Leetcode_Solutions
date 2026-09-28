@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
+| [2396-strictly-palindromic-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2396-strictly-palindromic-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |

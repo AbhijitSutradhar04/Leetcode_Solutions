@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -407,15 +410,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |

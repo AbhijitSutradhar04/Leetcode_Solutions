@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
@@ -424,12 +427,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |

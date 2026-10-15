@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -416,17 +420,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |

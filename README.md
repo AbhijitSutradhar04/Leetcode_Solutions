@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Geometry
@@ -499,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
@@ -523,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -576,4 +584,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

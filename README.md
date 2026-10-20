@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0242-valid-anagram) |

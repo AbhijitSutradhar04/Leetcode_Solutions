@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0202-happy-number) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0396-rotate-function) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |

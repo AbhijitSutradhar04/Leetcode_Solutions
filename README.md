@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1871-jump-game-vii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1871-jump-game-vii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1871-jump-game-vii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1871-jump-game-vii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |

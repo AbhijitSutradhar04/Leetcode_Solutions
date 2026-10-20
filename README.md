@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 | [0401-binary-watch](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -621,4 +622,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

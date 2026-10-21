@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [0566-reshape-the-matrix](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |

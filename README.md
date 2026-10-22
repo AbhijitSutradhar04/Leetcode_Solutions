@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
@@ -637,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0052-n-queens-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

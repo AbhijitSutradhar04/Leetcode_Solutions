@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |

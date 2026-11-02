@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0258-add-digits) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |

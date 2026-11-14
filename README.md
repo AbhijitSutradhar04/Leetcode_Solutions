@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |

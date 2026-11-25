@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry

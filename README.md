@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3934-smallest-unique-subarray](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AbhijitSutradhar04/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
